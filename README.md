@@ -18,13 +18,13 @@
 
 **🌐 What I Do**
 
--🖌️ Frontend Development
--💡 UI/UX Design Collaboration
--🔧 Performance Optimization
--🧪 Testing and Debugging
--🌐 Responsive Web Design
--🚀 Continuous Integration
--📊 Data Visualization
+1🖌️ Frontend Development
+2💡 UI/UX Design Collaboration
+3🔧 Performance Optimization
+4🧪 Testing and Debugging
+5🌐 Responsive Web Design
+6🚀 Continuous Integration
+7📊 Data Visualization
 
 📈 My goal is to help businesses and users connect through seamless web experiences. I'm always excited to take on new challenges and turn visions into reality.
 
