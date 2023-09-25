@@ -1,4 +1,6 @@
 👋 Hello, World! I'm Solomon Ayodele, a passionate Software Engineer 🚀
+
+
 ![image](https://github.com/solohcode/solohcode/assets/68078148/cfff254e-1d31-4436-9e70-310d5e591133)
 
 
@@ -33,6 +35,16 @@
 
 LinkedIn: [solohcode](https://www.linkedin.com/in/solohcode/)
 GitHub: [solohcode](https://github.com/solohcode)
-Portfolio: [https://solohcode.surge.sh](https://solohcode.surge.sh/)
+Portfolio: [solohcode](https://solohcode.surge.sh/)
 
-#Frontend #WebDevelopment #UserExperience #UIUX #JavaScript #React #VueJS #HTML #CSS #WebAccessibility
+#WebAccessibility
+#WebDevelopment
+#UserExperience
+#JavaScript
+#Frontend
+#UI/UX
+#React
+#VueJS
+#HTML
+#CSS
+...
