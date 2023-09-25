@@ -1,10 +1,10 @@
-##👋 Hello, World! I'm Solomon Ayodele, a passionate Software Engineer 🚀
+**👋 Hello, World! I'm Solomon Ayodele, a passionate Software Engineer 🚀**
 
 
 ![image](https://github.com/solohcode/solohcode/assets/68078148/cfff254e-1d31-4436-9e70-310d5e591133)
 
 
-🌟 About Me
+**🌟 About Me**
 
 🎨 I specialize in crafting delightful and pixel-perfect user interfaces that not only look great but also deliver exceptional user experiences.
 
@@ -16,19 +16,19 @@
 
 📱 Mobile responsiveness? Of course! I make sure that every project I work on looks and functions flawlessly on all devices and screen sizes.
 
-🌐 What I Do
+**🌐 What I Do**
 
-🖌️ Frontend Development
-💡 UI/UX Design Collaboration
-🔧 Performance Optimization
-🧪 Testing and Debugging
-🌐 Responsive Web Design
-🚀 Continuous Integration
-📊 Data Visualization
+-🖌️ Frontend Development
+-💡 UI/UX Design Collaboration
+-🔧 Performance Optimization
+-🧪 Testing and Debugging
+-🌐 Responsive Web Design
+-🚀 Continuous Integration
+-📊 Data Visualization
 
 📈 My goal is to help businesses and users connect through seamless web experiences. I'm always excited to take on new challenges and turn visions into reality.
 
-🔗 Let's Connect
+**🔗 Let's Connect**
 
 📫 Feel free to reach out if you want to discuss a project, collaborate, or just geek out about web development! I'm open to exciting opportunities and engaging conversations.
 
