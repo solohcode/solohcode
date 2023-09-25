@@ -1,8 +1,12 @@
 ## 👋 Hello, World! I'm **Solomon Ayodele**, a passionate Software Engineer 🚀
 
 
-![image](https://github.com/solohcode/solohcode/assets/68078148/cfff254e-1d31-4436-9e70-310d5e591133) ![image](https://github.com/solohcode/solohcode/assets/68078148/b114dbd6-b8b9-4150-a6be-83e033231eaf)
+![image](https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47c8con4nyhlenn2j49049ouj832l2jng6b6jeu2y7&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47c8con4nyhlenn2j49049ouj832l2jng6b6jeu2y7&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+</p>
 
 
 ## 🌟 About Me
