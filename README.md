@@ -1,9 +1,6 @@
 ## 👋 Hello, World! I'm **Solomon Ayodele**, a passionate Software Engineer 🚀
 
 
-![image](https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47c8con4nyhlenn2j49049ouj832l2jng6b6jeu2y7&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-
-
 <p align="center">
   <img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47c8con4nyhlenn2j49049ouj832l2jng6b6jeu2y7&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </p>
