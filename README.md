@@ -1,7 +1,8 @@
-## 👋 Hello, World! I'm Solomon Ayodele, a passionate Software Engineer 🚀
+## 👋 Hello, World! I'm **Solomon Ayodele**, a passionate Software Engineer 🚀
 
 
-![image](https://github.com/solohcode/solohcode/assets/68078148/cfff254e-1d31-4436-9e70-310d5e591133)
+![image](https://github.com/solohcode/solohcode/assets/68078148/cfff254e-1d31-4436-9e70-310d5e591133) ![image](https://github.com/solohcode/solohcode/assets/68078148/b114dbd6-b8b9-4150-a6be-83e033231eaf)
+
 
 
 ## 🌟 About Me
