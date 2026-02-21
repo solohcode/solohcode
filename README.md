@@ -21,6 +21,7 @@
 ## 🌐 What I Do
 
 + 🖌️ Frontend Development
++ 📱  Mobile Development
 + 💡 UI/UX Design Collaboration
 + 🔧 Performance Optimization
 + 🧪 Testing and Debugging
@@ -28,15 +29,15 @@
 + 🚀 Continuous Integration
 + 📊 Data Visualization
 
-📈 My goal is to help businesses and users connect through seamless web experiences. I'm always excited to take on new challenges and turn visions into reality.
+📈 My goal is to help businesses and users connect through seamless software experiences. I'm always excited to take on new challenges and turn visions into reality.
 
 ## 🔗 Let's Connect
 
-📫 Feel free to reach out if you want to discuss a project, collaborate, or just geek out about web development! I'm open to exciting opportunities and engaging conversations.
+📫 Feel free to reach out if you want to discuss a project, collaborate, or just geek out about software development! I'm open to exciting opportunities and engaging conversations.
 
 🌐 Check out my portfolio at [my-portfolio](https://solohcode.surge.sh/portfolio) to see some of the projects I've worked on.
 
-🚀 Let's build the web of tomorrow, today! 💻✨
+🚀 Let's build the software of tomorrow, today! 💻✨
 
 LinkedIn: [solohcode](https://www.linkedin.com/in/solohcode/)
 
@@ -46,6 +47,7 @@ Portfolio: [solohcode](https://solohcode.surge.sh/)
 
 + #WebAccessibility
 + #WebDevelopment
++ #MobileDevelopment
 + #UserExperience
 + #JavaScript
 + #Frontend
